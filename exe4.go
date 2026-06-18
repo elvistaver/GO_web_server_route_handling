@@ -50,3 +50,4 @@ func Calchandler(w http.ResponseWriter, r *http.Request) {
 
 	fmt.Fprintf(w, "Result: %d", result)
 }
+
