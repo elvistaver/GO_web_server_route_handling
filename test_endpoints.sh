@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Configuration
 SERVER_URL="http://localhost:8080"
 GREEN='\033[0;32m'
